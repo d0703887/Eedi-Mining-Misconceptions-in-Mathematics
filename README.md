@@ -4,6 +4,7 @@ This repo contains our work for the Kaggle competition: Eedi-Mining Misconceptio
 In this competition, we develop an NLP model to predict the affinity between misconceptions and incorrect answers in multiple-choice questions. 
 
 For example:
+
 ![inbox_59561_c5f9c8305d36aa52a4ee8aad08ac7708_question_example](https://github.com/user-attachments/assets/8602fb6a-f2a5-4b36-aad7-9a22bb551220) 
 
 If a student selects the distractor "13", they may have the misconception "*Carries out operations from left to right regradless of priority order."*
