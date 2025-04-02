@@ -21,4 +21,5 @@ To address these challenges:
 # Result
 - Public Leaderboard Rank: 272nd / 1449 teams
 - Private Leaderboard Rank: 609nd / 1449 teams
+  
 We observed that our model overfitted to the training dataset, leading to a drop in performance on the private leaderboard.
